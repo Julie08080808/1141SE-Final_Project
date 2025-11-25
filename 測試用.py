@@ -1,12 +1,12 @@
 def print_simple_greeting():
     """單純輸出早安。"""
-    print("☀️ 早安！ ☀️")
+    print("☀️ 晚安！ ☀️")
 
 def print_pyramid(layers=5):
     """
     列印指定層數的星號金字塔。
     """
-    print("\n--- 五層金字塔 ---")
+    print("\n--- 七層金字塔 ---")
     
     # 計算金字塔底部的最大寬度
     max_width = layers * 2 - 1
